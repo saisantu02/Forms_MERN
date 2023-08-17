@@ -9,6 +9,7 @@ node index.js
 ```
 To run the frontend application:
 ```
+cd frontend
 npm install
 npm run start
 ```
