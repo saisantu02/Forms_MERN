@@ -1,0 +1,45 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/8c/6b/e2/8c6be22eead703b09eb6145008b7d504.jpg");
+  margin: 0px;
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: fixed;
+  padding: 0px;
+  color: black;
+  font-family: cursive;
+}
+/* .App {
+  color: rgb(0, 0, 0);
+} */
+.header {
+  width: 100%;
+
+  display: flex;
+  align-items: center;
+  background-image: url("https://img.freepik.com/free-vector/watercolor-light-peach-background_23-2150293769.jpg?w=2000");
+}
+.header_logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
+.header_logo > img {
+  height: 50px;
+  width: 50px;
+}
+.navs {
+  font-size: 38px;
+  margin-left: 2%;
+}
+
+.submitButton {
+  background-image: url("https://img.freepik.com/free-vector/watercolor-light-peach-background_23-2150293769.jpg?w=2000");
+  padding: 5px 10px;
+  border-radius: 15px;
+  margin-top: 10px;
+  font-family: cursive;
+}
+input {
+  padding: "5px";
+}
